@@ -1,0 +1,2 @@
+# kotes-gradu-aineisto
+Koulutusteknologian gradun systemaattisen kirjallistuuskartoituksen tutkimusaineisto.
