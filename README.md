@@ -6,4 +6,4 @@ Taulukossa **Luokitellut**, on tutkimukseen valikoituneet 172 artikkelia, jotka 
 
 Taulukossa **Artikkelit** on kaikki haussa löytyneet artikkelit, mukaan lukien pois suljetut ja duplikaatit. Hyväksytyistä artikkeleista on mukana alustavia luokitteluja ja lyhyt kuvaus, minkä olen kirjoittanut omaksi muistiinpanokseni.
 
-Linkki graduun lisätään tähän readme-tiedostoon, heti kun gradu on arvosteltu ja julkaistu.
+[Gradu Jyväskylän yliopiston julkaisuarkistossa](https://jyx.jyu.fi/jyx/Record/jyx_123456789_100423)
